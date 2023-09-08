@@ -3,9 +3,9 @@ main:
   - title: "About"
     url: /about/
   - title: "Research"
-    url: /about/
+    url: /research/
   - title: "Publications"
-    url: /year-archive/
+    url: /pubs/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
