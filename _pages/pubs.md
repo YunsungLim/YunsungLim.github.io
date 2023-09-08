@@ -1,5 +1,5 @@
 ---
-permalink: /about/
+permalink: /pubs/
 title: "Publications by year"
 search: true
 toc: true
