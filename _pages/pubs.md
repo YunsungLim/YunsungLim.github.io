@@ -1,6 +1,6 @@
 ---
 permalink: /pubs/
-title: "Publications by year"
+title: "Publications"
 search: true
 toc: true
 --- 
