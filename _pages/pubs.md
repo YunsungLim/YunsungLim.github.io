@@ -10,3 +10,4 @@ toc: true
 ## 2022
 
 ## 2021
+1. <u>**Y. Lim**</u>, J. Park, S. Lee, and J. Kim<sup>*</sup>., "Finely tuned inverse design of metal-organic frameworks with user-desired Xe/Kr selectvitiy", _J. Mater. Chem. A_, 9, 21175-21183, 2021
