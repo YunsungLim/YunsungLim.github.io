@@ -1,7 +1,7 @@
 ---
 permalink: /pubs/
 title: "Publications"
-search: true
+exerpt: "Minimal Mistakes is a flexible tow-column Jekyll theme."
 toc: true
 --- 
 
