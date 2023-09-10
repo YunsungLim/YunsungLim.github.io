@@ -49,16 +49,16 @@ toc: true
 <span style="font-size:75%"><em>Teaching assistant @ Dept. of Chemical and Biomolecular Engineering, Korea Advance Institute of Science and Technology (KAIST)</em></span><br/>
 <span style="font-size:75%"><em>(Course: Introduction to Numerical Methods for Chemical and Biomolecular Engineers)</em></span><br/>
 <br/>
-* <span style="font-size:75%">2018.12 ~ 2019.2</span><br/>
+* <span style="font-size:75%">2018.12 ~ 2019.02</span><br/>
 <span style="font-size:75%"><em>Internship program @ SK Hynix</em></span><br/>
 <span style="font-size:75%"><em>(Team: DRAM Photo)</em></span><br/>
 <br/>
-* <span style="font-size:75%">2018.03 ~ 2018.6</span><br/>
+* <span style="font-size:75%">2018.03 ~ 2018.06</span><br/>
 <span style="font-size:75%"><em>Teaching assistant @ Dept. of Chemical and Biomolecular Engineering, Korea Advance Institute of Science and Technology (KAIST)</em></span><br/>
 <span style="font-size:75%"><em>(Course: Chemical and Biomolecular Engineering Analysis)</em></span><br/>
 <br/>
 
 ## Skills
-<span style="font-size:75%">**Molecular simulation tools** - VASP, RASPA, LAMMPS</span>
-<span style="font-size:75%">**Visualization tool** - Materials Studio, VESTA, VMD, OVITO</span>
+<span style="font-size:75%">**Molecular simulation tools** - VASP, RASPA, LAMMPS</span><br/>
+<span style="font-size:75%">**Visualization tool** - Materials Studio, VESTA, VMD, OVITO</span><br/>
 <span style="font-size:75%">**Programming language** - Python</span>
